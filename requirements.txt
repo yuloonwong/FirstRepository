@@ -75,7 +75,6 @@ en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_
 entrypoints==0.4
 ephem==4.1.4
 et-xmlfile==1.1.0
-etils==1.0.0
 etuples==0.3.8
 fa2==0.3.5
 fastai==2.7.10
